@@ -1,7 +1,7 @@
 
 # SocioBuddy - FullStack Social Media App
 
-Build an COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
+A social media Responsive MERN App with Authentication, Likes, Dark Mode | React, MongoDB, MUI
 
 Key Features:
 - Users can register, login, and logout securely using JSON Web Tokens (JWT).
