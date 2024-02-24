@@ -4,10 +4,10 @@
 A social media Responsive MERN App with Authentication, Likes, Dark Mode | React, MongoDB, MUI
 
 Key Features:
-● Developed a mobile-first MERN social app with secure JWT-based authentication and interactive posts.
-● Ensured seamless user experience through responsive design on various devices.
-● Optimized data storage and retrieval with MongoDB and Express.js.
-● Implemented dark mode, themes, and styling for an enhanced visual appeal.
+- Developed a mobile-first MERN social app with secure JWT-based authentication and interactive posts.
+- Ensured seamless user experience through responsive design on various devices.
+- Optimized data storage and retrieval with MongoDB and Express.js.
+- Implemented dark mode, themes, and styling for an enhanced visual appeal.
 
 What you need to run this code
 
