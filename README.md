@@ -31,9 +31,9 @@ Go to server folder
 
 create .env file in server folder and write below content in it
 
-MONGO_URL = 'change this to your mongodb url'
-JWT_SECRET = 'secretkey'
-PORT = 3001
+- MONGO_URL = 'change this to your mongodb url'
+- JWT_SECRET = 'secretkey'
+- PORT = 3001
 
 change .env file in client folder and write below content in it
 
