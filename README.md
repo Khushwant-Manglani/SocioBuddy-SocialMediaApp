@@ -4,11 +4,10 @@
 A social media Responsive MERN App with Authentication, Likes, Dark Mode | React, MongoDB, MUI
 
 Key Features:
-- Users can register, login, and logout securely using JSON Web Tokens (JWT).
-- The app also comes with a login page that ensures authenticated access to protected routes.
-- Users can post content and interact with it by liking and disliking posts, with the number of likes displayed.
-- The mobile-first design ensures a seamless user experience on various devices.
-- The app is powered by MongoDB for data storage and Express.js for the backend API, enabling efficient data management and retrieval.
+● Developed a mobile-first MERN social app with secure JWT-based authentication and interactive posts.
+● Ensured seamless user experience through responsive design on various devices.
+● Optimized data storage and retrieval with MongoDB and Express.js.
+● Implemented dark mode, themes, and styling for an enhanced visual appeal.
 
 What you need to run this code
 
