@@ -20,7 +20,7 @@ Run Locally
 
 Clone the project
 
-  git clone https://github.com/Khushwant-Manglani
+  git clone https://github.com/Khushwant-Manglani/SocioBuddy-SocialMediaApp
 
 Go to client folder
 
